@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/UI-egui%200.29-ff69b4?style=flat-square" alt="egui">
   &nbsp;
   <img src="https://img.shields.io/badge/no%20telemetry-100%25%20local-success?style=flat-square" alt="Local only">
+  &nbsp;
+  <a href="https://github.com/tadebao/football-scoreboard/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%20Download-v0.2.0-brightgreen?style=flat-square" alt="Download"></a>
 </p>
 
 <h1 align="center">⚽ 足球比分大屏 · Football Scoreboard</h1>
@@ -85,8 +87,12 @@
 
 ## 📥 下载使用
 
-下载最新版本：[Release v0.2.0](https://github.com/tadebao/football-scoreboard/releases/latest)
+> ⚠️ 本项目**不提供 `dist/` 源码目录打包**，请直接下载已构建好的安装包。
 
+- 🟢 **最新发布版**：[Release v0.2.0](https://github.com/tadebao/football-scoreboard/releases/tag/v0.2.0)
+- ⬇️ **直接下载安装包**：[football-scoreboard-v0.2.0.zip](https://github.com/tadebao/football-scoreboard/releases/download/v0.2.0/football-scoreboard-v0.2.0.zip)（约 2.9 MB）
+
+**安装步骤：**
 1. 下载 `football-scoreboard-v0.2.0.zip`
 2. **解压到任意目录**（建议非系统盘）
 3. 双击 `football-scoreboard.exe` 启动（无控制台黑窗）
