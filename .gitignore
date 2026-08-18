@@ -1,0 +1,17 @@
+# 编译产物
+/target
+/_dbg
+/_rel
+
+# 运行期生成的数据与日志
+/data
+*.log
+
+# 发布包（从源码构建，或用 GitHub Release 分发）
+/dist
+
+# 开发/调试截图
+/screenshots
+
+# 本地项目记忆与数据（不公开）
+.workbuddy/
