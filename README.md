@@ -203,18 +203,6 @@ Copyright (c) 2026 BH6AEP
 
 ---
 
-## 💼 商业服务 / 联系
-
-虽然 MIT 协议下软件**完全免费**，但下面这些是软件本身没法给到的事，可以联系付费合作：
-
-- 🎨 **品牌定制**：球场 / 联赛 Logo 皮肤、专属配色与版式
-- 🛠️ **现场部署支持**：多机联调、投影对接、操作员培训
-- 🏆 **赛事代运营**：日常赛事的大屏托管与数据整理
-
-**微信** `BH6AEP` &nbsp;·&nbsp; **QQ** `1656217430`
-
----
-
 <p align="center">
   <i>让每一场业余比赛，都有专业级的大屏呈现。</i><br><br>
   <img src="docs/screenshots/display.png?v=2" alt="Football Scoreboard" width="240">
