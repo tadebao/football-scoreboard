@@ -17,10 +17,10 @@
   <a href="https://github.com/tadebao/football-scoreboard/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%20Download-v0.2.0-brightgreen?style=flat-square" alt="Download"></a>
 </p>
 
-<h1 align="center">⚽ 足球比分大屏 · Football Scoreboard</h1>
+<h1 align="center">⚽ 肖恩足球计分板</h1>
 
 <p align="center">
-  <b>为业余足球赛事打造的原生桌面比分投屏工具</b><br>
+  <b>肖恩足球计分板（Football Scoreboard）— 为业余足球赛事打造的原生桌面比分投屏工具</b><br>
   一个窗口控制，一个窗口投屏——把实时比分、比赛时间和球队信息一键投到副屏 / 投影仪，<br>
   现场零依赖、即开即用
 </p>
@@ -39,14 +39,14 @@
 
 <p align="center">
   <b>大屏投屏效果</b><br>
-  <img src="docs/screenshots/display.png?v=2" alt="足球比分大屏" width="92%">
+  <img src="docs/screenshots/display.png?v=2" alt="肖恩足球计分板 · 大屏投屏" width="92%">
 </p>
 
 <br>
 
 <p align="center">
   <b>控制台</b><br>
-  <img src="docs/screenshots/console.png?v=2" alt="足球比分控制台" width="80%">
+  <img src="docs/screenshots/console.png?v=2" alt="肖恩足球计分板 · 控制台" width="80%">
 </p>
 
 > 大屏以**宽屏大字体**展示比赛时间、双方队名与比分；控制台负责**比赛设置、比分管理、自动暂停等**全部控制操作。
@@ -205,5 +205,5 @@ Copyright (c) 2026 BH6AEP
 
 <p align="center">
   <i>让每一场业余比赛，都有专业级的大屏呈现。</i><br><br>
-  <img src="docs/screenshots/display.png?v=2" alt="Football Scoreboard" width="240">
+  <img src="docs/screenshots/display.png?v=2" alt="肖恩足球计分板" width="240">
 </p>
